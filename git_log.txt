@@ -1,0 +1,58 @@
+commit 33d7d0e1d4360be5a499a0a06c31ba442716ffa0
+Merge: 45cf763 dd6714c
+Author: Henry4217 <henry04269@gmail.com>
+Date:   Thu Sep 10 17:50:14 2026 -0700
+
+    Resolved the merge conflict
+
+commit dd6714c7bb5a9fa86c52349d24d5f5032ee51d7e
+Author: Henry4217 <henry04269@gmail.com>
+Date:   Thu Sep 10 17:45:47 2026 -0700
+
+    Added favorite game to index
+
+commit 45cf763258c47efbc845362c972df8df6bbdbe52
+Author: Henry4217 <henry04269@gmail.com>
+Date:   Thu Sep 10 17:42:15 2026 -0700
+
+    Added favorite food to index
+
+commit 271183ab96b817a08e4be9f38e22f6f171053b94
+Author: Henry4217 <henry04269@gmail.com>
+Date:   Thu Sep 10 17:32:17 2026 -0700
+
+    Added README to repository
+
+commit 35f0fd2751190cbc11d4b12362e0ab62abf8cadc
+Merge: 0fa5c7f 9a5a74b
+Author: Henry4217 <henry04269@gmail.com>
+Date:   Thu Sep 10 17:24:10 2026 -0700
+
+    Merge branch 'main' of https://github.com/Henry4217/CS3338-second-project into info-fill
+
+commit 0fa5c7fb776578b45c53731aac56ca3916de579d
+Author: Henry4217 <henry04269@gmail.com>
+Date:   Thu Sep 10 17:21:41 2026 -0700
+
+    Added README to repository
+
+commit 9a5a74b6a5077ddf3e1b7214301383074828bf62
+Merge: 1d2bfc0 cd5dc68
+Author: Henry <144284826+Henry4217@users.noreply.github.com>
+Date:   Thu Sep 10 17:15:38 2026 -0700
+
+    Merge pull request #1 from Henry4217/info-fill
+    
+    Changed index by adding some information
+
+commit cd5dc6844449db68d0ebb12a99e31870003e52d3
+Author: Henry4217 <henry04269@gmail.com>
+Date:   Thu Sep 10 16:34:03 2026 -0700
+
+    Changed index by adding some information
+
+commit 1d2bfc0c7ca5c63bb12bd6add9fed720c852ae70
+Author: JValenzuela1 <74166160+JValenzuela1@users.noreply.github.com>
+Date:   Wed Aug 28 01:13:39 2024 -0700
+
+    Added index.html
